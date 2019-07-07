@@ -2,7 +2,7 @@
     <el-row>
           <el-col class="mycol" :span="4">
             <div class="grid-content bg-purple">
-              <img src="../../assets/logo.1.png" alt>
+              <!-- <img src="../../assets/logo.1.png" alt> -->
             </div>
           </el-col>
           <el-col class="mycol" :span="16">
